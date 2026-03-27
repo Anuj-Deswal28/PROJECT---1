@@ -6,7 +6,7 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 import itertools
-from dqn import DQN
+from  dqn import DQN
 from memory import Replay_Memory
 import random
 import os
